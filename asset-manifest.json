@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-reviews/static/css/main.3b3e77b1.css",
-    "main.js": "/react-reviews/static/js/main.7047700f.js",
+    "main.js": "/react-reviews/static/js/main.65eedfbc.js",
     "index.html": "/react-reviews/index.html",
     "main.3b3e77b1.css.map": "/react-reviews/static/css/main.3b3e77b1.css.map",
-    "main.7047700f.js.map": "/react-reviews/static/js/main.7047700f.js.map"
+    "main.65eedfbc.js.map": "/react-reviews/static/js/main.65eedfbc.js.map"
   },
   "entrypoints": [
     "static/css/main.3b3e77b1.css",
-    "static/js/main.7047700f.js"
+    "static/js/main.65eedfbc.js"
   ]
 }
