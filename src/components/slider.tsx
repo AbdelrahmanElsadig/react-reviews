@@ -34,7 +34,6 @@ const Slider = () => {
 
     function Suprise(): void {
         const num = Math.round(Math.random() * (reviews.length - 1));
-        console.log(num);
         setIndex(() => num);
 
     }
